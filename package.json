@@ -1,0 +1,26 @@
+{
+  "name": "codechalenge1.speed-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitoSpence/codechalenge1.speed-Detector.git"
+  },
+  "keywords": [
+    "if",
+    "else"
+  ],
+  "author": "Spencer Mwenda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitoSpence/codechalenge1.speed-Detector/issues"
+  },
+  "homepage": "https://github.com/PapitoSpence/codechalenge1.speed-Detector#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
