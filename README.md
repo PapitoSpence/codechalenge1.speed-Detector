@@ -1,7 +1,8 @@
 # codechalenge1.speed-Detector
 Description:A program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
-Setup:To run this program, fork or clone the repository into your local computer then open via terminal and run npm install-sync.
+Setup:To run this program, fork or clone the repository into your local computer then open via terminal and run npm install propmt-sync.
+Then input the command node index.js and enter any speed of your choice. If it is less than 70, the result should be okay howevor anything >70, results will be demerit points depending on the range of speed. Example speed of 120,the demerit points will be 10.
 
 Author: Spencer Mwenda
 
